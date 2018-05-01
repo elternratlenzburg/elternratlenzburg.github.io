@@ -15,4 +15,4 @@ url: "http://www.elternratlenzburg.ch" # the base hostname & protocol for your s
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
