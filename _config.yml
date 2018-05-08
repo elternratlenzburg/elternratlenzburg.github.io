@@ -16,3 +16,11 @@ url: "http://www.elternratlenzburg.ch" # the base hostname & protocol for your s
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+
+# a dynamic calendar for a static site inspired by
+# https://www.raymondcamden.com/2017/02/24/an-example-of-a-static-site-with-a-dynamic-calendar/
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
