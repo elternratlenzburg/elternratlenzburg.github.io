@@ -31,7 +31,7 @@ Die Elterndelegierten
 Liebe Eltern, wir laden Sie herzlich ein, sich bei uns zu melden, wenn Sie
 
 - ein konkretes Elternanliegen einbringen möchten
-  - Interesse an der Mitarbeit in einer der Arbeitsgruppen haben
+- Interesse an der Mitarbeit in einer der Arbeitsgruppen haben
 - als Elterndelegierte/r für das nächste Schuljahr kandidieren möchten
 - allgemeine Fragen oder Anregungen an den Elternrat haben
 
