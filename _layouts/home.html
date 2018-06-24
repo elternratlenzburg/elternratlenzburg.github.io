@@ -24,5 +24,14 @@ layout: default
         {% endif %}
       </div>
     </div>
+    <div>
+      <header class="section-title">
+        <h2>{{ site.data.theme.t.next_events }}</h2>
+      </header>
+      <div class="entries-{{ page.entries_layout | default: 'list' }}">
+          {% include events-all.html %}
+      </div>
+    </div>
+
   </div>
 </main>
