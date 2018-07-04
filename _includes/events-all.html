@@ -1,20 +1,35 @@
 {% for event in site.events %}
-<li>
-  <span class="post-meta">{{ event.event_date | date: "%-d. %b %Y"}}</span>
-  {% if event.start and event.start != "" %}
-    <span class="post-meta">|</span>
-    <span class="post-meta">{{ event.start }}</span>
-  {% endif %}
-  {% if event.end and event.end != "" %}
-    <span class="post-meta">-</span>
-    <span class="post-meta">{{ event.end }}</span>
-  {% endif %}
-  {% if event.location and event.location != "" %}
-    <span class="post-meta">|</span>
-    <span class="post-meta">{{ event.location }}</span>
-  {% endif %}
-    <h2>
-      <a class="post-link" href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a>
-    </h2>
-  </li>
+
+<article class="entry">
+  <header class="entry-header">
+    <h3 class="entry-title">
+      <a href="{{ event.url | relative_url }}" rel="bookmark">{{ event.title }}</a>
+    </h3>
+  </header>
+  <footer class="entry-meta">
+    <ul>
+    {% if event.event_date %}
+    <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ event.event_date | date_to_xmlschema }}">{{ event.event_date | date: "%-d. %b %Y" }}</time>
+      {% if event.start and event.start != "" %}
+      |
+      <time class="entry-time"">{{ event.start }}</time>
+      {% endif %}
+      {% if event.end and event.end != "" %}
+      |
+      <time class="entry-time"">{{ event.end }}</time>
+      {% endif %}
+    </li>
+      {% endif %}
+    {% if event.location and event.location != "" %}
+    <li>{{ event.location }}</li>
+    {% endif %}
+    </ul>
+  </footer>
+  <div class="entry-excerpt">
+    {% if event.excerpt %}
+      {{ event.excerpt | markdownify }}
+      <p><a href="{{ event.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
+    {% endif %}
+  </div>
+</article>
 {% endfor %}
