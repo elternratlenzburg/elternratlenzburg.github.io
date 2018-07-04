@@ -19,11 +19,11 @@ email: info@elternratlenzburg.ch
 description: "Gemeinsam unterwegs für unserer Kinder"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name:
-  twitter:
-  picture:
+url: http://elternratlenzburg.ch
+# author:
+#   name:
+#   twitter:
+#   picture:
 
 logo: "/assets/images/Elternrat.png"# path of site logo, e.g. "/assets/images/logo.png"
 search: false 
