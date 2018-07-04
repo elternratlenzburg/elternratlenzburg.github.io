@@ -36,3 +36,7 @@ Liebe Eltern, wir laden Sie herzlich ein, sich bei uns zu melden, wenn Sie
 - allgemeine Fragen oder Anregungen an den Elternrat haben
 
 Sie erreichen uns per Email oder über das Kontaktformular.
+
+# Reglement
+
+Das [Reglement](/assets/docs/Reglement_Elternrat_Angelrain.pdf) definiert die Rahmenbedingungen für den Elternrat. Im [Anhang](/assets/docs/Anhang_Reglement_Elternrat_Angelrain.pdf) ist festgelegt wie der Elternrat gewählt wird.
