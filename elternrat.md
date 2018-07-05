@@ -39,4 +39,4 @@ Sie erreichen uns per Email oder über das Kontaktformular.
 
 # Reglement
 
-Das [Reglement](/assets/docs/Reglement_Elternrat_Angelrain.pdf) definiert die Rahmenbedingungen für den Elternrat. Im [Anhang](/assets/docs/Anhang_Reglement_Elternrat_Angelrain.pdf) ist festgelegt wie der Elternrat gewählt wird.
+Das [Reglement]({% link /assets/files/Reglement_Elternrat_Angelrain.pdf %}) definiert die Rahmenbedingungen für den Elternrat. Im [Anhang]({% link /assets/files/Anhang_Reglement_Elternrat_Angelrain.pdf %}) ist festgelegt wie der Elternrat gewählt wird.
