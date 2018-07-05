@@ -76,7 +76,7 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: true
+      read_time: false
 
 # a dynamic calendar for a static site inspired by
 # https://www.raymondcamden.com/2017/02/24/an-example-of-a-static-site-with-a-dynamic-calendar/
