@@ -3,6 +3,7 @@ layout: page
 title: Über uns
 ---
 
+<div class="entries-grid">
 {% assign members = site.data.members | sort: 'class' %}
 {% for member in members %}
 
@@ -12,4 +13,5 @@ title: Über uns
 	<figcaption>{{ member.name }} ({{ member.class }}{% if member.co-lead %}, Co-Leitung{% endif %})</figcaption>
 </figure>
 {% endfor %}
+</div>
 
