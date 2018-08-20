@@ -28,6 +28,7 @@ url: http://elternratlenzburg.ch
 logo: "/assets/images/Elternrat.png"# path of site logo, e.g. "/assets/images/logo.png"
 search: false 
 search_full_content: false
+google_analytics: UA-124268475-1
 
 # Build settings
 markdown: kramdown
