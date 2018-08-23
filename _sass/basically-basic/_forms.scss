@@ -1,0 +1,36 @@
+// stylelint-disable selector-no-qualifying-type
+
+//
+// Textual form controls
+//
+
+.form-control {
+  display: block;
+  width: 100%;
+  height: 2.5em;
+  padding: 3px 3px;
+  font-size: $base-font-size;
+  line-height: 1em;
+  color: $text-color;
+  background-color:$code-background-color;
+  background-clip: padding-box;
+  border: 1px solid $border-color;
+
+  border-radius: $border-radius;
+}
+
+//
+// Labels
+//
+
+textarea.form-control {
+  height: auto;
+}
+
+// Form groups
+//
+// Designed to help with the organization and spacing of vertical forms.
+
+.form-group {
+  margin-bottom: 0.5em;
+}
