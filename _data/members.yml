@@ -1,38 +1,41 @@
-- name: Barbara Roman
-  image: Barbara.jpg
-  class: P4
-- name: Benno Brinlinger
-  image: Benno.jpg
-  class: P5
+- name: Irene Obi
+  image: Irene.jpg
+  class: P1
+- name: Andreas Söhnlein
+  image: Andreas.jpg
+  class: P1
 - name: Christian Gugelmann
   image: ChristianG.jpg
-  class: P1
-- name: Christian Egli
-  image: ChristianE.jpg
-  class: P4
+  class: P2
+  co-lead: yes
+- name: Roger Karrer
+  image: Roger.jpg
+  class: P2
 - name: Ece Balci
   image: Ece.jpg
-  class: P2
-  co-lead: yes
-- name: Martina Walti
-  image: Martina.jpg
-  class: P2
-- name: Patricia Martins
-  image: Patricia.jpg
-  class: P3
-- name: Seukan Aziz
-  image: Seukan.jpg
-  class: P1
-- name: Stephan Müller
-  image: Stefan.jpg
-  class: P5
-  co-lead: yes
-- name: Vanessa Fracassi
-  image: Vanessa.jpg
   class: P3
 - name: Vehida Keranovic
   image: Vehida.jpg
+  class: P3
+- name: Vanessa Fracassi
+  image: Vanessa.jpg
+  class: P4
+  co-lead: yes
+- name: Patricia Martins
+  image: Patricia.jpg
+  class: P4
+- name: Christian Egli
+  image: ChristianE.jpg
+  class: P5
+- name: Vakant
+  class: P5
+- name: Stefan Müller
+  image: Stefan.jpg
   class: P6
+- name: Manuel Silva
+  image: Manuel.jpg
+  class: P6
+
 
 
 
