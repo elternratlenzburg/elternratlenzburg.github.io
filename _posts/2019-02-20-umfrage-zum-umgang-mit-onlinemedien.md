@@ -15,9 +15,9 @@ Medienerziehung und führt dazu eine anonyme Online-Umfrage durch.
 > Vielen Dank, dass Sie sich Zeit nehmen, um an der Umfrage über folgenden Link bis zum 28. Februar 2019 teilzunehmen. 
 >
 > Bitte beachten Sie, dass pro Familie jeweils nur ein Elternteil mitmachen kann.
-
-https://ww2.unipark.de/uc/Bachelorarbeit_ZHAW/
-
+>
+> [Link zur Umfrage](https://ww2.unipark.de/uc/Bachelorarbeit_ZHAW/)
+>
 > Für die Auswertung der Umfrage benötige ich sehr viele Teilnehmende. Wenn Sie also noch andere Eltern mit Kindern in diesem Alter kennen, bin ich Ihnen sehr dankbar, wenn Sie den Link zur Umfrage weiterleiten.
 >
 > Vielen Dank für Ihre Teilnahme und freundliche Grüsse
