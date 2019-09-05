@@ -5,6 +5,6 @@ Jekyll-based website for the Elternrat at Schulhaus Angelrain in Lenzburg. It us
 to build locally run
 
 ``` shell
-bundler install
+bundler install --path vendor/bundle
 bundler exec jekyll serve --watch
 ```
