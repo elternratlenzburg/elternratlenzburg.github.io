@@ -1,39 +1,39 @@
+- name: Adrian Müller
+  image: Adrian.jpg
+  class: P1
+- name: Oemer Sentuerk
+  image: Oemer.jpg
+  class: P1
 - name: Irene Obi
   image: Irene.jpg
-  class: P1
+  class: P2
 - name: Andreas Söhnlein
   image: Andreas.jpg
-  class: P1
+  class: P2
 - name: Christian Gugelmann
   image: ChristianG.jpg
-  class: P2
-  co-lead: yes
+  class: P3
 - name: Roger Karrer
   image: Roger.jpg
-  class: P2
+  class: P3
+  co-lead: yes
 - name: Ece Balci
   image: Ece.jpg
-  class: P3
+  class: P4
 - name: Vehida Keranovic
   image: Vehida.jpg
-  class: P3
+  class: P4
 - name: Vanessa Fracassi
   image: Vanessa.jpg
-  class: P4
-  co-lead: yes
+  class: P5
 - name: Patricia Martins
   image: Patricia.jpg
-  class: P4
+  class: P5
 - name: Christian Egli
   image: ChristianE.jpg
-  class: P5
-- name: Vakant
-  class: P5
-- name: Stefan Müller
-  image: Stefan.jpg
   class: P6
-- name: Manuel Silva
-  image: Manuel.jpg
+  co-lead: yes
+- name: Vakant
   class: P6
 
 
