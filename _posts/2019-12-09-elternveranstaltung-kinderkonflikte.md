@@ -6,6 +6,8 @@ date:   2019-12-09 21:20:28 +0200
 
 Die Elternveranstaltung «Kinderkonflikte» fand am 30. Oktober 2019 in der Aula der Primarschule Bleicherain statt. Ca. 100 interessierte Eltern konnten an diesem Abend viele interessante Aspekte rund das Konfliktverhalten von Kindern und Erwachsenen erfahren und ihre Fragen mit dem Referenten diskutieren.
 
+![](/assets/images/kinderkonflikte_2019-1.jpg)
+
 Die gezeigte Präsentation kann [hier heruntergeladen werden](/assets/files/Freiraum_oder_Grenzen_19_Lenzburg.pdf).
 
 Wer noch tiefer in das Thema eintauchen möchte kann dies mit den folgenden Büchertipps tun:
@@ -16,5 +18,5 @@ Wer noch tiefer in das Thema eintauchen möchte kann dies mit den folgenden Büc
 
 Der Elternrat bedankt sich nochmals bei den Spendern für die tolle Unterstützung.
 
-<!-- Hier noch ein paar Impressionen: -->
+![](/assets/images/kinderkonflikte_2019-2.jpg)
 
