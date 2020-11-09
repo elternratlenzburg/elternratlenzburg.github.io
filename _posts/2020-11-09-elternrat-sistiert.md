@@ -15,3 +15,5 @@ Entscheid wird wie folgt begründet:
 > Mitglieder des Elternrates und ev. andere interessierte Eltern
 > vertreten sind, die sich mit der Thematik Elternmitwirkung an der
 > Primarstufe auseinandersetzen sollen.
+
+<!--more-->
