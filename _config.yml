@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: de
 title: Elternrat Lenzburg
-email: info@elternratlenzburg.ch
+#email: info@elternratlenzburg.ch
 description: "Gemeinsam unterwegs für unserer Kinder"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 
