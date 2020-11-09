@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Elternrat wird sistiert"
+title:  "Der Elternrat wird sistiert"
 date:   2020-11-09 21:20:28 +0200
 ---
 
 Die Schulpflege hat sich entschieden den Elternrat zu sistieren. Der
-Schritt wird wie folgt begründet:
+Entscheid wird wie folgt begründet:
 
 > Auf Grund der Tatsachen, dass durch die Corona bedingten Massnahmen
 > die Wahlen in den Elternrat nicht Reglements- und ordnungsgemäss
